@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════
-   ROHIT — Portfolio Script
+   SHAM — Portfolio Script
    Canvas Animation | Smooth Scroll | Contact Form
    ═══════════════════════════════════════════════════════ */
 
